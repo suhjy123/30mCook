@@ -1,0 +1,5 @@
+{
+  "name": "30분 요리 도우미",
+  "description": "가지고 있는 재료로 30분 안에 만들 수 있는 요리 레시피를 찾아주는 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
